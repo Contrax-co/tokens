@@ -11,7 +11,7 @@ Each folder inside `arbitrum-tokens` is named after a token's address.
 
 Inside its folder there should be an image - `logo.png` - of the token's logo.
 
-All images should have a size of 128x128 pixels.
+All images should have a size of 3258x3258 pixels.
 
 
 
